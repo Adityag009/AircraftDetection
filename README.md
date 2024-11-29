@@ -39,7 +39,7 @@ The model was evaluated on a validation dataset, and the results are as follows:
 
 The trained model was tested on various aircraft videos. The following video outputs demonstrate the model's ability to detect and classify aircraft in real-time:
 
-![Output Video A](output_videoA.mp4)
+`output_videoA.mp4`
 
 
 ## Repository Contents
